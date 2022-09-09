@@ -28,8 +28,10 @@ A guide to the world you will be exploring when you play the game.
 
 TOPIC : BLOONS TD 6
 
-1.
-2.
-3.
-4.
-5.
+1. Homepage
+2. Towers
+3. MK
+4. Bloons & Boss Bloons 
+5. Maps
+6. Heroes
+7. Events
