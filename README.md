@@ -26,7 +26,7 @@ The general story, (slight spoilers)
 
 A guide to the world you will be exploring when you play the game.
 
-TOPIC : BLOONS TD 6
+TOPIC : BLOONS TD 6 (from ya boy jared (edronn))
 
 1. Homepage
 2. Towers
