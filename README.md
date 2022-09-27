@@ -28,6 +28,8 @@ A guide to the world you will be exploring when you play the game.
 
 TOPIC : BLOONS TD 6 (from ya boy jared (edronn))
 
+Title : JaSonic's BTD6 Tools
+
 is a website for btd6 help, using the btd6 advanced popology as source.
 
 1. Homepage - homepage
