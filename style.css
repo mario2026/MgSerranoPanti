@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.navbar > li{
+  display: inline;
+}
+
+/* navbar bullcrappery */
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  margin: 0px;
+  margin-left: -8px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar :hover {
+  background-color: #888;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+} 
+
+body{
+  background-image: url(images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#text {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 100px;
+  margin-bottom: 30px;
+}
